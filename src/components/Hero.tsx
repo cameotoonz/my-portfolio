@@ -187,7 +187,7 @@ export function Hero() {
                 className="relative aspect-[3/4] rounded-2xl overflow-hidden"
               >
                 <img
-                  src="https://github.com/cameotoonz/my-photo.git"
+                  src="/profile photo New 3.PNG"
                   alt="Nitesh Kuamr - Video Editor & Motion Designer"
                   className="w-full h-full object-cover object-top"
                 />
