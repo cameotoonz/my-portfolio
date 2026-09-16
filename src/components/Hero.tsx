@@ -187,7 +187,7 @@ export function Hero() {
                 className="relative aspect-[3/4] rounded-2xl overflow-hidden"
               >
                 <img
-                  src="https://instagram.fdel3-5.fna.fbcdn.net/v/t51.82787-19/778426757_18091475009129109_6443720173740760861_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CDB1OZ-xi_cQ7kNvwG92aEZ&_nc_oc=AdrH8raz24KY7TS1FI0IOa5mWcvo_-1YPBB0GY5B5Hulq7NBBJUJUmvqay5wg_mJtXo&_nc_zt=24&_nc_ht=instagram.fdel3-5.fna&_nc_gid=0aWBG-Zr5JkGgjqLTAV_Vg&_nc_ss=7b2a8&oh=00_AQHo3cWstXhESfXpcqvKiSfjBO-BD0uCb7jByQy2Db0lfw&oe=6A934C1F"
+                  src="https://github.com/cameotoonz/my-photo/blob/main/profile%20photo%20New%203.PNG"
                   alt="Nitesh Kuamr - Video Editor & Motion Designer"
                   className="w-full h-full object-cover object-top"
                 />
